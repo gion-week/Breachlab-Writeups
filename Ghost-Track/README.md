@@ -25,7 +25,7 @@ Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghos
 
 | # | Level | Main topic | Done |
 |---|---|---|:---:|
-| 0 | First Contact |  | ☐ |
+| 0 | [First Contact](./Level%200%20-%20First%20Contact/README.md) | Shell basics (`ls`/`cat`/`cd`), following planted operator notes | ✅ |
 | 1 | Name Game |  | ☐ |
 | 2 | In The Shadows |  | ☐ |
 | 3 | Access Denied |  | ☐ |
