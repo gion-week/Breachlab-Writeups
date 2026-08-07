@@ -17,7 +17,7 @@
 ssh ghost0@204.168.229.209 -p 2222
 ```
 
-Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghost2`, and so on). The platform shows it exactly once. Write it down the moment it turns up, then redact it everywhere in this repo.
+Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghost2`, and so on), and the platform shows it exactly once.
 
 ---
 

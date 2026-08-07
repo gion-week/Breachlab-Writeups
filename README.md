@@ -4,7 +4,7 @@ Writeups from my run through [BreachLab](https://breachlab.org/), organized by t
 
 ## What is BreachLab
 
-BreachLab is an offensive (and now also defensive) security training platform. Every level runs on real infrastructure: SSH boxes, containers, misconfigurations you actually exploit instead of read about, spread across more than a dozen tracks that range from Linux fundamentals to red team operations.
+BreachLab is an offensive security training platform, now expanding into defensive work too: its first blue-team track (SOC, detection, DFIR) went live alongside the offensive ones. Every level runs on real infrastructure: SSH boxes, containers, misconfigurations you actually exploit instead of read about, spread across 13 tracks that range from Linux fundamentals to red team operations.
 
 Site: [breachlab.org](https://breachlab.org/)
 
@@ -24,6 +24,8 @@ Breachlab-Writeups/
     └── Level N - Title/
         └── README.md        writeup for that level
 ```
+
+Empty level folders carry a `.gitkeep` placeholder until that level gets solved and written up.
 
 ## Tracks
 

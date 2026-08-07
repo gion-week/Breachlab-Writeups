@@ -1,6 +1,8 @@
 # Local-only working files, never published
 CLAUDE.md
 docs/superpowers/
+.superpowers/
+.impeccable/
 
 # OS noise
 .DS_Store

@@ -1,6 +1,6 @@
 <!-- portfolio-desc: ONE-LINE SUMMARY OF THE LEVEL -->
 
-# <Track> Level N - Title
+# `<Track>` Level N - Title
 
 ## Objective
 
@@ -15,7 +15,7 @@
 | Method | `ssh` / `http` / ... |
 | Host | `host:port` |
 | User | `<username>` |
-| Password | *(found in the previous level)* |
+| Password | `[REDACTED]` *(found in the previous level, replace before committing)* |
 
 ---
 
@@ -36,7 +36,7 @@ What you observed, what you inferred from it, why that led to this action.
 command / output / relevant snippet
 ```
 
-![Description](../screenshots/NN-filename.png)
+`![Description](../screenshots/NN-filename.png)`
 
 ### Step 2: Title
 
@@ -44,7 +44,7 @@ command / output / relevant snippet
 
 ### Step N: Flag found
 
-Where the flag turned up (a file, a config, command output) and how you pulled it out.
+Where the flag turned up (a file, a config, command output) and how you pulled it out. Redact it as `[REDACTED]` here too, same rule as the Password field above.
 
 ---
 
