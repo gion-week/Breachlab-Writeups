@@ -78,7 +78,7 @@ KAEL spells out exactly where to look next: `archive/`. `cd archive/`, `ls` show
 
 ### Step 3: Flag found
 
-The password sits in `~/workspace/archive/credentials`, in plaintext, exactly where KAEL's own notes pointed. `[REDACTED]`.
+The password sits in `~/workspace/archive/credentials`, in plaintext, exactly where KAEL's own notes pointed.
 
 ---
 
