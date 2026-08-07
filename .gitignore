@@ -1,0 +1,7 @@
+# Local-only working files, never published
+CLAUDE.md
+docs/superpowers/
+
+# OS noise
+.DS_Store
+Thumbs.db
