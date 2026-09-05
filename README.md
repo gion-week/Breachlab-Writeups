@@ -33,4 +33,4 @@ Only Ghost is covered here so far. I'll add a folder for each live track as I ge
 
 | Track | Focus | Levels | Progress |
 |---|---|:---:|:---:|
-| [Ghost](./Ghost-Track/README.md) | Linux & shell fundamentals | 22 | 5 / 22 |
+| [Ghost](./Ghost-Track/README.md) | Linux & shell fundamentals | 22 | 6 / 22 |
