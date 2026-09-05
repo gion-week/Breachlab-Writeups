@@ -28,7 +28,7 @@ Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghos
 | 0 | [First Contact](./Level%200%20-%20First%20Contact/README.md) | Shell basics (`ls`/`cat`/`cd`), following planted operator notes | ✅ |
 | 1 | [Name Game](./Level%201%20-%20Name%20Game/README.md) | Adversarial filenames: `./` and quoting to beat `cat` | ✅ |
 | 2 | [In The Shadows](./Level%202%20-%20In%20The%20Shadows/README.md) | Hidden files and dirs (`ls -a`), globbing | ✅ |
-| 3 | Access Denied |  | ☐ |
+| 3 | [Access Denied](./Level%203%20-%20Access%20Denied/README.md) | Unix group permissions, `id`, `find -readable` | ✅ |
 | 4 | Signal in the Noise |  | ☐ |
 | 5 | The Listener |  | ☐ |
 | 6 | Ghost in the Machine |  | ☐ |
