@@ -36,8 +36,8 @@ Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghos
 | 8 | [Something's Running](./Level%208%20-%20Something's%20Running/README.md) | Process environment via `/proc/<pid>/environ`, `runuser -p` | ✅ |
 | 9 | [Core Dump](./Level%209%20-%20Core%20Dump/README.md) | Core dumps: recovering an environment with `strings` | ✅ |
 | 10 | [Odd Token Out](./Level%2010%20-%20Odd%20Token%20Out/README.md) | Frequency analysis: `sort` piped to `uniq -u` | ✅ |
-| 11 | Unwrap the Stage |  | ☐ |
-| 12 | Harvested Key |  | ☐ |
+| 11 | [Unwrap the Stage](./Level%2011%20-%20Unwrap%20the%20Stage/README.md) | Layered compression: reading an extension chain as an unwrap order | ✅ |
+| 12 | [Harvested Key](./Level%2012%20-%20Harvested%20Key/README.md) | Stolen SSH keys: `chmod 600`, `ssh-keygen -y`, key-based auth | ✅ |
 | 13 | Credential Broker |  | ☐ |
 | 14 | TLS Only |  | ☐ |
 | 15 | Ephemeral Port |  | ☐ |
