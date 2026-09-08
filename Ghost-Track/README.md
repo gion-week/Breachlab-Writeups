@@ -38,8 +38,8 @@ Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghos
 | 10 | [Odd Token Out](./Level%2010%20-%20Odd%20Token%20Out/README.md) | Frequency analysis: `sort` piped to `uniq -u` | ✅ |
 | 11 | [Unwrap the Stage](./Level%2011%20-%20Unwrap%20the%20Stage/README.md) | Layered compression: reading an extension chain as an unwrap order | ✅ |
 | 12 | [Harvested Key](./Level%2012%20-%20Harvested%20Key/README.md) | Stolen SSH keys: `chmod 600`, `ssh-keygen -y`, key-based auth | ✅ |
-| 13 | Credential Broker |  | ☐ |
-| 14 | TLS Only |  | ☐ |
+| 13 | [Credential Broker](./Level%2013%20-%20Credential%20Broker/README.md) | Raw TCP line protocols with `nc`, reading a service's own usage banner | ✅ |
+| 14 | [TLS Only](./Level%2014%20-%20TLS%20Only/README.md) | `openssl s_client` as a TLS-capable `nc`, self-signed cert verify errors | ✅ |
 | 15 | Ephemeral Port |  | ☐ |
 | 16 | Config Drift |  | ☐ |
 | 17 | No Shell For You |  | ☐ |
