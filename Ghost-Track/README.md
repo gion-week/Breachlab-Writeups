@@ -34,8 +34,8 @@ Each level's flag doubles as the SSH password for the next user (`ghost1`, `ghos
 | 6 | [Ghost in the Machine](./Level%206%20-%20Ghost%20in%20the%20Machine/README.md) | Credentials in the environment (`env`), base64 decoys | ✅ |
 | 7 | [Lost in Translation](./Level%207%20-%20Lost%20in%20Translation/README.md) | Layered encoding: hex dump (`xxd -r`) over base64 | ✅ |
 | 8 | [Something's Running](./Level%208%20-%20Something's%20Running/README.md) | Process environment via `/proc/<pid>/environ`, `runuser -p` | ✅ |
-| 9 | Core Dump |  | ☐ |
-| 10 | Odd Token Out |  | ☐ |
+| 9 | [Core Dump](./Level%209%20-%20Core%20Dump/README.md) | Core dumps: recovering an environment with `strings` | ✅ |
+| 10 | [Odd Token Out](./Level%2010%20-%20Odd%20Token%20Out/README.md) | Frequency analysis: `sort` piped to `uniq -u` | ✅ |
 | 11 | Unwrap the Stage |  | ☐ |
 | 12 | Harvested Key |  | ☐ |
 | 13 | Credential Broker |  | ☐ |
