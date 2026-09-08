@@ -15,7 +15,6 @@
 | Method | `ssh` |
 | Host | `204.168.229.209:2222` |
 | User | `ghost0` |
-| Password | `ghost0` (the track's published starting credential) |
 
 ```bash
 ssh ghost0@204.168.229.209 -p 2222

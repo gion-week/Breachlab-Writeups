@@ -15,7 +15,6 @@
 | Method | `ssh` |
 | Host | `204.168.229.209:2222` |
 | User | `ghost4` |
-| Password | `[REDACTED]` (found in Level 3) |
 
 ```bash
 ssh ghost4@204.168.229.209 -p 2222

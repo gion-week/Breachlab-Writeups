@@ -15,7 +15,6 @@
 | Method | `ssh` / `http` / ... |
 | Host | `host:port` |
 | User | `<username>` |
-| Password | `[REDACTED]` *(found in the previous level, replace before committing)* |
 
 ---
 
@@ -44,7 +43,7 @@ command / output / relevant snippet
 
 ### Step N: Flag found
 
-Where the flag turned up (a file, a config, command output) and how you pulled it out. Redact it as `[REDACTED]` here too, same rule as the Password field above.
+Where the flag turned up (a file, a config, command output) and how you pulled it out. Never write the value itself: `[REDACTED]` stands in for it.
 
 ---
 
